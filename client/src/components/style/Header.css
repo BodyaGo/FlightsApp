@@ -1,0 +1,80 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 100px;
+  background-color: #003d71;
+  color: #ffffff;
+}
+
+.header__logo {
+  display: flex;
+  align-items: center;
+}
+
+.header__logo-image {
+  width: 80px;
+  height: 70px;
+  margin-right: 10px;
+  /* Adjust the background image to your airline carrier logo */
+  background-size: cover;
+}
+
+
+.header__logo a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.header__nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__menu {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header__menu-item {
+  margin-right: 20px;
+}
+
+.header__menu-item:last-child {
+  margin-right: 0;
+}
+
+.header__menu-link {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.header__menu-link:hover {
+  color: #003d71;
+  background-color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+  }
+
+  .header__menu {
+    margin-top: 20px;
+  }
+
+  .header__menu-item {
+    margin: 0 10px;
+  }
+}
