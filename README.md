@@ -1,14 +1,6 @@
-# Project Name
+# FlightsApp
 
 Simple FlightsApp
-
-## Introduction
-
-Provide an introduction to your project. Explain its purpose and provide some context for potential users.
-
-## Features
-
-List the main features of your project. Highlight the key functionalities that make your project unique or useful.
 
 ## Installation
 
