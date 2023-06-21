@@ -10,7 +10,7 @@ To install and set up the project, follow these steps:
 
    ```bash
    git clone https://github.com/BodyaGo/FlightsApp.git
-
+ ```
 Navigate to the project directory:
 
    cd client
