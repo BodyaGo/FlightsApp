@@ -6,7 +6,7 @@ Simple FlightsApp
 
 To install and set up the project, follow these steps:
 
-1. Clone the repository:
+   Clone the repository:
 
    ```bash
    git clone https://github.com/BodyaGo/FlightsApp.git
@@ -15,16 +15,14 @@ To install and set up the project, follow these steps:
 
    cd client
 
-Install the dependencies:
-```bash
-npm install
-or
-yarn install
+   Install the dependencies:
+   ```bash
+   npm install
+   or
+   yarn install
 
-
-Start the project:
-
-```bash
-npm start
-or
-yarn start
+   Start the project:
+   ```bash
+   npm start
+   or
+   yarn start
