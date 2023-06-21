@@ -13,22 +13,16 @@ To install and set up the project, follow these steps:
 
     Navigate to the project directory:
 
-cd client
+   cd client
 
 Install the dependencies:
-
+```bash
 npm install
 or
 yarn install
 
-Replace npm install or yarn install with the appropriate command for your project's package manager.
-
-Configure the project:
-
-If your project requires any configuration steps, such as setting up environment variables or database connections, provide the necessary instructions here.
-
 Start the project:
-
+```bash
 npm start
 or
-    yarn start
+yarn start
