@@ -11,17 +11,17 @@ To install and set up the project, follow these steps:
    ```bash
    git clone https://github.com/BodyaGo/FlightsApp.git
 
-    Navigate to the project directory:
+Navigate to the project directory:
 
    cd client
 
-   Install the dependencies:
+Install the dependencies:
 
    npm install
    or
    yarn install
 
-   Start the project:
+Start the project:
 
    npm start
    or
