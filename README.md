@@ -16,13 +16,13 @@ To install and set up the project, follow these steps:
    cd client
 
    Install the dependencies:
-   ```bash
+
    npm install
    or
    yarn install
 
    Start the project:
-   ```bash
+
    npm start
    or
    yarn start
